@@ -1,3 +1,3 @@
-🔭 Working on various kinds of projects : basic website, web app, 3D experience...<br>
-🎓 Studying web development (5th year)<br>
-⚡ Learning new technologies<br>
+🔭 Working on various kinds of projects: web apps, design systems, AI-powered interfaces...
+🎓 Master's degree in web development
+⚡ Always exploring new frameworks and tools
